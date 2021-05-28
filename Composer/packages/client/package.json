@@ -4,6 +4,7 @@
   "main": "build/public/index.ejs",
   "version": "0.1.0",
   "private": true,
+  "homepage": "/BotMaker",
   "engines": {
     "node": ">=12"
   },
